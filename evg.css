@@ -1,0 +1,192 @@
+body {
+background: #EAE7E3;
+font-family: 'Open Sans', sans-serif;
+-webkit-font-smoothing: antialiased;
+}
+
+/* Evg common css styles */
+
+.lay_bod {
+max-width: 1230px;
+margin: 0 auto;
+height: 6000px;
+}
+
+.cont {
+width: 996px;
+margin: 0 auto;
+}
+
+.lay_01 {
+height: 1276px;
+}
+
+.lay_02 {
+height: 806px;
+}
+
+.lay_03 {
+height: 422px;
+}
+
+.lay_04 {
+height: 891px;
+}
+
+.lay_05 {
+height: 401px;
+}
+
+.lay_06 {
+height: 261px;
+}
+
+.lay_07 {
+height: 654px;
+}
+
+.lay_08 {
+height: 294px;
+}
+
+.lay_09 {
+height: 266px;
+}
+
+
+.width100 {
+    width: 100%;
+}
+
+.width90 {
+    width: 90%;
+}
+
+.width80 {
+    width: 80%;
+}
+
+.width75 {
+    width: 75%;
+}
+
+.width70 {
+    width: 70%;
+}
+
+.width60 {
+    width: 60%;
+}
+
+.width50 {
+    width: 50%;
+}
+
+.width40 {
+    width: 40%;
+}
+
+.width33 {
+    width: 33%;
+}
+
+.width30 {
+    width: 30%;
+}
+
+.width25 {
+    width: 25%;
+}
+
+.width20 {
+    width: 30%;
+}
+
+.width10 {
+    width: 30%;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.cleard {
+    clear: both;
+}
+
+.al {
+    text-align: left;
+}
+
+.ar {
+    text-align: right;
+}
+
+.centerdiv {
+    text-align: center;
+}
+
+.hidediv {
+display:none;
+}
+
+.overf {
+overflow: hidden;
+}
+
+.relat {
+ position: relative;
+}
+
+.abs {
+ position: absolute;
+}
+
+
+/* Tuning */ 
+
+
+a, a:visited {
+    color: #fff;
+}
+
+.sp_01_16 {
+font-weight: 300;
+}
+
+.sp_01_21 td * {
+font-family: 'Open Sans', sans-serif;
+}
+
+.sp_01_10 {
+font-weight: 300;
+}
+
+.sp_01_12 {
+font-weight: 300;
+}
+
+.sp_01_09_2_2 {
+font-size: 15px;
+}
+
+
+/* end Tuning */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
